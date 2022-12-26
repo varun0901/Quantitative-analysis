@@ -1,4 +1,4 @@
-###### Things Covered this notebook
+#### Things Covered this notebook
 
 ###### Working with Yahoo Finance and importing data
 ###### Importing OHLCV data of stock of 6 Months and more or less
